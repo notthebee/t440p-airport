@@ -31,7 +31,7 @@ Dissassemble the laptop – you will need to remove:
 Refer to [Lenovo Maintenance Manual](https://thinkpads.com/support/hmm/hmm_pdf/t440p_hmm_en_sp40a25467_01.pdf) for instructions. There are a few plastics snaps around the docking station connector that are pretty tight, apply a little bit of force when you take off the base cover assembly and it should come right off.
 
 After you removed the base cover assembly, disconnect the _Ethernet controller_ here:  
-![Ethernet controller location](Ethernet location.png)
+![Ethernet controller location](Ethernet.png)
 
 Screw the adapter to the motherboard and insert the Airport card into the adapter. Then, lift the Airport card from the adapter and try to "sandwich" the rear part of the Ethernet controller between the adapter and the card, as shown here (sorry for the madskillz):  
 ![Scheme](scheme.jpg)
